@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HouseholdGoodsStore": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
